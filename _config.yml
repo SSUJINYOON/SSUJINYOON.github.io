@@ -166,7 +166,7 @@ exclude:
   - assets/js/_main.js
   - assets/js/vendor
   - Capfile
-  - CHANGELOG
+  - CHANGELOG 
   - config
   - Gemfile
   - Gruntfile.js
