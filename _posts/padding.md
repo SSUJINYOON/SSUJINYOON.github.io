@@ -1,3 +1,10 @@
+---
+layout: single
+title:  "padding 속성"
+---
+
+#padding
+
 **padding**: 요소의 '내부(안) 여백'을 지정[단축]
 
 속성 값
