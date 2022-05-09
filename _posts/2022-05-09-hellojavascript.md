@@ -1,3 +1,8 @@
+---
+layout: single
+title:  "01. Hello JavaScript"
+---
+
 ## 01. Hello JavaScript!
 
 개발자 도구는 윈도우 Ctrl + Shift + I 또는 macOS Command + Option + I 키를 눌러서 열 수 있습니다.
