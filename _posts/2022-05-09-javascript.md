@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "반복문"
+layout: single
+title:  " 08.반복문 "
 ---
 
 ## 08. 반복문
